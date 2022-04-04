@@ -93,3 +93,4 @@ RUN ["dash", "-c", "\
 
 # Step 4. Update development environment
 ENV LC_ALL=C
+ENV IDF_PATH=/home/${USER}/esp/esp-idf
